@@ -1,0 +1,45 @@
+html,
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  background-color: #efd7cd;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+p,
+li {
+  font-size: 20px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: justify;
+}
+
+li {
+  margin: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 1%;
+}
+
+#img-div {
+  text-align: center;
+  padding: 1% 20% 1% 20%;
+}
